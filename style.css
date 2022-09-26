@@ -164,5 +164,13 @@
     .button {
         display: flex;
         justify-content: center;
+        align-items: center;
+        width: 80%;
+        height: 80%;
+        margin: 0;
+    }
+    .navbar__toggle .bar {
+        display: block;
+        cursor: pointer;
     }
 }
