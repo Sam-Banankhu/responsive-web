@@ -332,3 +332,11 @@
         margin: 2.5rem 0;
     }
 }
+
+
+/* sevices section css */
+
+.services {
+    background: #141414;
+    display: flex;
+}
