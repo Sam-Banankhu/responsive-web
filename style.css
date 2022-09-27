@@ -184,3 +184,10 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+
+
+/* hero section css */
+
+.main {
+    background-color: #141414;
+}
