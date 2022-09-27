@@ -227,3 +227,9 @@
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
 }
+
+.main__content p {
+    margin: 1rem;
+    font-size: 2rem;
+    font-weight: 700;
+}
