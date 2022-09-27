@@ -7,6 +7,7 @@
 
 .navbar {
     background: #131313;
+    /* background: red; */
     height: 8opx;
     display: flex;
     justify-content: center;
@@ -124,6 +125,7 @@
         height: 50vh;
         z-index: -1;
         background: #131313;
+        /* background: #21d4fd; */
     }
     .navbar__menu.active {
         top: 100%;
@@ -190,6 +192,7 @@
 
 .main {
     background-color: #141414;
+    /* background-color: #21d4fd; */
 }
 
 .main__container {
@@ -200,6 +203,7 @@
     margin: 0 auto;
     height: 90vh;
     background-color: #141414;
+    /* background-color: rgb(244, 246, 237); */
     z-index: 1;
     width: 100%;
     max-width: 1300px;
