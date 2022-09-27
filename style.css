@@ -248,3 +248,22 @@
     transition: all 0.35s;
     outline: none;
 }
+
+.main__btn a {
+    position: relative;
+    z-index: 2;
+    color: #fff;
+    text-decoration: none;
+}
+
+.main__btn::after {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background: #4837ff;
+    transform: all 0.35s;
+    border-radius: 4px;
+}
